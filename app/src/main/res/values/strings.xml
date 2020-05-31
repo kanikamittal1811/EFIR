@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">E-FIR</string>
+    <array name="type">
+        <item>"Criminal"</item>
+        <item>"Civil"</item>
+
+    </array>
+    <string name="navigation_drawer_open">Open navigation</string>
+    <string name="navigation_drawer_close">Close navigation</string>
+</resources>
